@@ -1,0 +1,25 @@
+{
+  "short_name": "IdinRohidin",
+  "name": "Marketing Executive Suzuki",
+  "icons": [{
+    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/apple-idinrohidin-120x120.png",
+    "type": "image/png",
+    "sizes": "120x120"
+  }, {
+    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/apple-idinrohidin-152x152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/android-idinrohidin-144x144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/android-idinrohidin-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "idinrohidin.com/?utm_source=homescreen",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3",
+  "display": "standalone"
+}
