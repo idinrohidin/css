@@ -19,7 +19,7 @@
     "sizes": "192x192"
   }],
   "start_url": "https://www.idinrohidin.com/?utm_source=homescreen",
-  "background_color": "#2196F3",
-  "theme_color": "#2196F3",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
   "display": "standalone"
 }
