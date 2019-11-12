@@ -17,6 +17,10 @@
     "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/idinrohidin_192x192.png",
     "type": "image/png",
     "sizes": "192x192"
+  }, {
+    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/idinrohidin_512x512.png",
+    "type": "image/png",
+    "sizes": "512x512"
   }],
   "start_url": "https://www.idinrohidin.com/?utm_source=homescreen",
   "background_color": "#FFFFFF",
