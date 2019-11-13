@@ -2,16 +2,16 @@
   "short_name": "Idin Rohidin",
   "name": "Marketing Executive Suzuki",
   "icons": [{
-    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/idinrohidin_192x192.png",
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idinrohidin_192x192.png",
     "type": "image/png",
     "sizes": "192x192"
   }, {
-    "src": "https://raw.githubusercontent.com/idinrohidin/icon/master/idinrohidin_512x512.png",
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idinrohidin_512x512.png",
     "type": "image/png",
     "sizes": "512x512"
   }],
   "start_url": "https://www.idinrohidin.com/?source=pwa",
-  "background_color": "#3367D6",
+  "background_color": "#F4F4F4",
   "display": "standalone",
-  "theme_color": "#3367D6"
+  "theme_color": "#F4F4F4"
 }
