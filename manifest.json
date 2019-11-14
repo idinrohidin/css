@@ -10,7 +10,7 @@
     "type": "image/png",
     "sizes": "512x512"
   }],
-  "start_url": "https://www.idinrohidin.com/?source=pwa",
+  "start_url": "https://www.idinrohidin.com",
   "background_color": "#F4F4F4",
   "display": "standalone",
   "theme_color": "#F4F4F4"
