@@ -2,11 +2,31 @@
   "short_name": "Idin Rohidin",
   "name": "Marketing Executive Suzuki",
   "icons": [{
-    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idinrohidin_192x192.png",
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_48x48.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  }, {
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_96x96.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  }, {
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_128x128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_144x144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_152x152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_192x192.png",
     "type": "image/png",
     "sizes": "192x192"
   }, {
-    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idinrohidin_512x512.png",
+    "src": "https://cdn.statically.io/gh/idinrohidin/icon/master/idin_512x512.png",
     "type": "image/png",
     "sizes": "512x512"
   }],
